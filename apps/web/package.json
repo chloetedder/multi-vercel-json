@@ -5,6 +5,6 @@
     "build": "echo building web"
   },
   "dependencies": {
-    
+    "next": "*"
   }
 }
